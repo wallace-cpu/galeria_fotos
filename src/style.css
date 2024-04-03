@@ -89,4 +89,5 @@ img{
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
+    filter: drop-shadow(10px 14px 5px 0 #15e82e);
 }
